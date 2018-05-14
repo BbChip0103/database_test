@@ -1,3 +1,4 @@
+.gitignore
 db_config/config.py
 .ftpconfig
 redis.ppk
